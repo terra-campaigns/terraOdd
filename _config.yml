@@ -8,6 +8,7 @@ permalink: pretty
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
+  - jekyll-titles-from-headings
 
 aux_links:
   Repository: https://github.com/terra-campaigns/terraOdd
