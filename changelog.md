@@ -17,6 +17,9 @@ nav_order: 9000
 
 #### v0.2.0
 
+- **Modularisation**: Backgrounds, Bonds, Ruin (Woes) and Creatures are modularised out of the SRD and will be maintained on each game repository.
+	- Degenesis content is moved to [https://terra-campaigns.github.io/degenesis/](https://terra-campaigns.github.io/degenesis/).
+- Updates from upstream Cairn
 
 
 #### v0.1.2
