@@ -17,6 +17,8 @@ nav_order: 9000
 
 #### v0.2.1
 
+- Sync gems and actions from [https://github.com/terra-campaigns/template](https://github.com/terra-campaigns/template) for aligned deployment.
+
 #### v0.2.0
 
 - **Modularisation**: Backgrounds, Bonds, Ruin (Woes) and Creatures are modularised out of the SRD and will be maintained on each game repository.
