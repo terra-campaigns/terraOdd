@@ -18,21 +18,54 @@ nav_order: 940
 
 ## Attributes
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+Each of the three **Attributes** are used in different circumstances. (See **Saves**, below).
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, wits, coolness, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Strength (STR)**: Used for saves requiring physical power, like lifting heavy things, bending and breaking, resisting poison, endurance, stamina etc.
+- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, wits, coolness, sneaking, balancing, using complex tech etc.
+- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate unknown powers, dealing with heavy intellectual activities etc.
+
+**Attributes** are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher.
 
 ## Saves
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+A save is a roll to avoid negative outcomes from risky choices.
+Characters roll a d20 and compare the results to the appropriate attribute.
+If they roll equal to or under that attribute, they succeed.
+Otherwise, they fail.
+
+Many risks that call for a save bypass HP altogether.
+Communicate the risk clearly to your players if they have a chance to decide on a different course of action.
+
+If two opponents are each trying to overcome the other, both parties roll and the highest successful save wins.
+If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant **Attribute**).
+
+### Task Resolution
+
+When a player attempts to do something such as pick a lock, drive a speeder, or hack a computer, three task resolution factors should be taken into consideration: training, tools, and time. 
+
+- **If a player has all three:** training (inferred from background, a skill, etc.), appropriate tools (an item), and enough time (usually 10 mins), they will alway succeed. 
+- **If a player is missing one of the above**, a Save might be appropriate, with a failed save resulting in a consequence, such as getting caught, breaking the tool, or not being able to solve the problem. 
+- **If a player is missing two of the above**, it is usually impossible to resolve the task at hand, or the results of failing a Save could potentially be very dangerous.
+
+### Advantage & Disadvantage
+
+When a character has some sort of leverage or is at some sort of handicap, and a save is required, give them enhanced success or reduced failure for **Advantage** and mixed success or disastrous failure for **Disadvantage**.
+
+## Burdens
+
+- Characters have a total of ten **Burden** slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
+- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden.
+- Anyone carrying **10 Burdens** is reduced to **0 HP**. A character cannot fill more than ten slots.
+
+### Burden Slots
+
+- Most items take up one slot unless otherwise indicated. 
+- _Petty_ items do not take up any slots. _Bulky_ items take up two slots. 
+- Each Fatigue you gain occupies one **Burden** slot.
 
 ## Healing & Recovery
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
+- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilise a character that has taken critical damage.
 - Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
 - Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
 
@@ -42,11 +75,11 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 - A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
 - If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
 
-## Armor
+## Armour
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- Before calculating damage to HP, subtract the target's **Armour** value from the result of damage rolls. 
+- Shields and similar armour provide a bonus defence (e.g. +1 Armour), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
+- A PC, NPC, or monster cannot have more than 3 Armour.  
 
 ## Reactions
 

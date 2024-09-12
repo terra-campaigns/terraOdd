@@ -28,8 +28,7 @@ The following Backgrounds sets are available.
 ## Attributes
 
 - Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll ***2d6+3*** for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- Roll ***2d6+3*** for each of your character's **Attributes**, in order. You may then swap any two of the results.  
 
 ## Hit Protection
 
@@ -47,7 +46,6 @@ The following Bonds sets are available.
 #### <a href="https://cairnrpg.com/wip/2e/character-creation/#bonds" target="_blank">Cairn 2e Bonds (WIP)</a>
 
 #### <a href="https://terra-campaigns.github.io/degenesis/systems/bonds/" target="_blank">Degenesis Bonds</a>
-
 
 ## Burdens
 
